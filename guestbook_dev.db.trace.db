@@ -1,0 +1,3 @@
+2020-02-29 20:30:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "GUESTBOOK" not found; SQL statement:
+SELECT * from guestbook [42102-191]
